@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="subtle animation" />
 
   <h1>Hey, I'm Saswwata 👋</h1>
-  <p><i>📷 Photographer | 🔧 Maker | 🎙️ Podcasting soon</i></p>
+  <p><i>🔧 Embedded Enthusiast | 📷 Photographer | 🎙️ Podcasting soon</i></p>
 
 </div>
 
