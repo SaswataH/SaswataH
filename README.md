@@ -23,7 +23,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,neovim,git,github,html,js,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,neovim,git,github,opencv&perline=8" />
 
 </div>
 
