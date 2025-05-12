@@ -1,64 +1,63 @@
-<!-- Sleek Minimal GitHub Profile README.md -->
+<!-- Minimal, Subtle GitHub Profile README.md -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="banner gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="subtle animation" />
 
-<h1>Hey, I'm Saswata 👋</h1>
-<p><i>Curious Developer • Embedded Explorer • Novice Photographer</i></p>
+  <h1>Hey, I'm Saswwata 👋</h1>
+  <p><i>📷 Photographer | 🔧 Maker | 🎙️ Podcasting soon</i></p>
 
 </div>
 
 ---
 
-### 🌱 What I'm Up To
-
-- 🛠️ Building with **ESP32**, sensors, and MIDI
-- 📸 Exploring street & ambient photography in **Kolkata**
-- ✍️ Planning a **blog** + **podcast** about creativity & tech
-- 🎧 Diving into genres of **film scores, ambient, experimental** music
-
----
-
-### 🧰 Toolbox
-
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,neovim,git,github,vscode,html,css,js&perline=8" />
-  
-</div>
+### ✨ What I'm Doing
+- 🎛️ Tinkering with **ESP32**, sensors & audio projects  
+- 📷 Exploring the streets of **Kolkata** with my camera  
+- 📝 Preparing a **blog** and **podcast** on creativity & tech  
+- 🎶 Digging into **film scores**, **post-rock**, and **lo-fi**
 
 ---
 
-### 📈 Stats
+### 🛠 Tools I Use
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaswataH&show_icons=true&theme=calm&hide_title=true&hide_border=true" width="47%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SaswataH&theme=calm&hide_border=true" width="47%"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,neovim,git,github,html,js,css&perline=8" />
 
 </div>
 
 ---
 
-### ✨ Aesthetic Vibes
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=84ccff&center=true&width=435&lines=Dreaming+in+code.;Framing+the+city.;Listening+to+noise.;Telling+stories+in+pixels." alt="Typing SVG" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SaswataH&show_icons=true&hide_title=true&hide_border=true&theme=ayu-mirage" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaswataH&hide_border=true&theme=ayu-mirage" width="47%" />
+
 </div>
 
 ---
 
-### 📫 Connect With Me
+### 🧠 Thought for the Day
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Code+slow,+think+deep.;Frame+the+moment.;Hack+the+silence.;Stay+curious." alt="Typing SVG" />
+</div>
+
+---
+
+### 📬 Reach Me
 
 <p align="center">
-  <a href="haldersaswata558@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=wordpress&logoColor=white" /></a> -->
-  <!-- <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+   <a href="haldersaswata558@gmail.com"><img src="https://img.shields.io/badge/email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/blog-%23333?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
 </p>
 
 ---
 
 <div align="center">
-  <sub><i>Thanks for stopping by! ✨</i></sub>
+  <sub><i>Thanks for visiting — stay inspired 🌱</i></sub>
 </div>
