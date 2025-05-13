@@ -4,7 +4,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160px" alt="subtle animation" />
 
-  <h1>Hey, I'm Your Name 👋</h1>
+  <h1>Hey, I'm Saswata 👋</h1>
   <p><i>Developer • Maker • Photographer • Blogger in Progress</i></p>
 
 </div>
