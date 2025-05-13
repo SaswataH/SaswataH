@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saswata</h1>
-<h3 align="center">Code,Physics,Films...</h3>
+<h1 align="center">It's Saswata this side...</h1>
+<h3 align="center">A passion for Code,Physics,Films...</h3>
 
 - 🔭 I’m currently working on [An ML based Hand Gesture Recognition](https://github.com/SaswataH/Bionic-Arm)
 
@@ -22,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatah&show_icons=true&locale=en" alt="saswatah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatah&" alt="saswatah" /></p>
+##
+
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaswataH&bg_color=false&color=ffffff&line=27e8a7&point=ffffff&title_color=55e6a5&area=true&area_color=55e6a5&hide_border=true)
