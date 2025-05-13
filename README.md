@@ -1,51 +1,54 @@
-<!-- Sleek & Subtle GitHub Profile README.md -->
+<h1 align="center">Hi 👋, I'm Saswata</h1>
+<h3 align="center">Code,Physics,Films...</h3>
 
-<div align="center">
+<p align="left"> <a href="https://twitter.com/bosonsinteger" target="blank"><img src="https://img.shields.io/twitter/follow/bosonsinteger?logo=twitter&style=for-the-badge" alt="bosonsinteger" /></a> </p>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160px" alt="subtle animation" />
+- 🔭 I’m currently working on [An ML based Hand Gesture Recognition](https://github.com/SaswataH/Bionic-Arm)
 
-  <h1>Hey, I'm Saswata 👋</h1>
-  <p><i>Developer • Maker • Photographer • Blogger in Progress</i></p>
+- 🌱 I’m currently learning **Machine Learning**
 
-</div>
+- 💬 Ask me about **Embedded C**
 
-<h2>🌱 What I'm Working On</h2>
-
-<ul>
-  <li>🎛️ Building audio & sensor-based projects with <strong>ESP32</strong></li>
-  <li>📷 Documenting life in <strong>Kolkata</strong> through photography</li>
-  <li>📝 Writing a blog + prepping a podcast around tech & creativity</li>
-  <li>🎶 Exploring music genres: ambient, lo-fi, experimental film scores</li>
-</ul>
-
-<h2>🧰 Tools I Work With</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,neovim,git,github,vscode&perline=8" />
-</div>
-
-<h2>📈 GitHub Stats</h2>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SaswataH&show_icons=true&hide_title=true&hide_border=true&theme=ayu-mirage" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaswataH&hide_border=true&theme=ayu-mirage" width="47%" />
-
-</div>
-
-<h2>📅 Daily Contribution Graph</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaswataH&show_icons=true&langs_count=8&hide=makefile&size_weight=0.5&count_weight=0.5&theme=panda&bg_color=00000000&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SaswataH" width="35%"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaswataH&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&border_color=808080"  alt="SaswataH"width="46%" /></p>
-<br />
+- 📫 How to reach me **haldersaswata558@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bosonsinteger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bosonsinteger" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saswatahalder05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswatahalder05" height="30" width="40" /></a>
-<a href="https://x.com/BosonsInteger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswatahalder05" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <sub><i>Thanks for visiting. Always exploring, always building.</i></sub>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatah&show_icons=true&locale=en&layout=compact" alt="saswatah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatah&show_icons=true&locale=en" alt="saswatah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatah&" alt="saswatah" /></p>
+<h1 align="center">Hi 👋, I'm Saswata</h1>
+<h3 align="center">Code,Physics,Films...</h3>
+
+<p align="left"> <a href="https://twitter.com/bosonsinteger" target="blank"><img src="https://img.shields.io/twitter/follow/bosonsinteger?logo=twitter&style=for-the-badge" alt="bosonsinteger" /></a> </p>
+
+- 🔭 I’m currently working on [An ML based Hand Gesture Recognition](https://github.com/SaswataH/Bionic-Arm)
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Embedded C**
+
+- 📫 How to reach me **haldersaswata558@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bosonsinteger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bosonsinteger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saswatahalder05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswatahalder05" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatah&show_icons=true&locale=en&layout=compact" alt="saswatah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatah&show_icons=true&locale=en" alt="saswatah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatah&" alt="saswatah" /></p>
