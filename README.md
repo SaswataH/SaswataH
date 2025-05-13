@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatah&show_icons=true&locale=en" alt="saswatah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatah&" alt="saswatah" /></p>
+##
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saswataH&bg_color=false&color=ffffff&line=27e8a7&point=ffffff&title_color=55e6a5&area=true&area_color=55e6a5&hide_border=true)
