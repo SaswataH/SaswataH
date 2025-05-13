@@ -1,6 +1,8 @@
 <h1 align="center">It's Saswata this side...</h1>
 <h3 align="center">A passion for Code,Physics,Films...</h3>
 
+<image align="right" padd  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdueWllZDExYTIxazRmc2sxY2h3ZzhobjZmbGpqN3Q4dHE3ZmJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="35%" alt="code">
+
 - 🔭 I’m currently working on [An ML based Hand Gesture Recognition](https://github.com/SaswataH/Bionic-Arm)
 
 - 🌱 I’m currently learning **Machine Learning**
