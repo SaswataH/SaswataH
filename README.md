@@ -3,28 +3,23 @@
 > Computer Science student exploring Embedded Systems, Machine Learning, Physics, and Film-Tech.
 
 ---
+---
+
+## Connect
+
+- [GitHub](`https://github.com/SaswataH`)
+- [LinkedIn](`https://www.linkedin.com/in/saswatahalder05/`)
+
+---
 
 ## About Me
 
-I am a Computer Science undergraduate with interests spanning:
-
-- Embedded Systems
-- Machine Learning
-- Computer Vision
-- Statistical Analysis
-- Scientific Computing
-- Physics-based Simulation
-- Data Analytics
-- Control Systems
-
-I enjoy building systems that combine software with real-world interaction — from ESP32-based hardware projects to AI-assisted computer vision systems.
+I am a Computer Science student with interests in Embedded Systems and AI on the edge.
+I try to understand how components interact under constraints.
 
 Currently focused on:
-- Embedded development using ESP-IDF
+- Firmware development on the Xtensa 32-bit LX6 / LX7 architecture
 - Machine Learning and Data Analysis
-- Classical Mechanics and Applied Mathematics
-- Simulation engineering and computational systems
-
 ---
 
 ## Current Projects
@@ -52,26 +47,12 @@ Building practical ML systems with:
 - Visualization
 - Model deployment concepts
 
----
-
-## Interests
-
-- Football analytics
-- Philosophy
-- Scientific simulations
-- Film technology
-- Cinematography and visual storytelling
-- Human-computer interaction
-- Hardware-software integration
-
----
 
 ## Tech Stack
 
 ### Languages
 - Python
 - C
-- C++
 - SQL
 - Java
 
@@ -96,26 +77,5 @@ Building practical ML systems with:
 - High-performance simulation systems
 - AI for physical systems and robotics
 - Computational imaging and film-tech systems
-
----
-
-## Philosophy
-
-I like systems thinking.
-
-Whether it is:
-- a control loop,
-- a football team,
-- a film narrative,
-- or a machine learning pipeline,
-
-I try to understand how components interact under constraints.
-
----
-
-## Connect
-
-- GitHub: `https://github.com/SaswataH`
-- LinkedIn: `https://www.linkedin.com/in/saswatahalder05/`
 
 ---
