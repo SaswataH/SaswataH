@@ -1,13 +1,6 @@
 # Saswata
-
-> Computer Science student exploring Embedded Systems, Machine Learning, Physics, and Film-Tech.
-
----
-
-## Connect
-
-- [GitHub](`https://github.com/SaswataH`)
-- [LinkedIn](`https://www.linkedin.com/in/saswatahalder05/`)
+- [GitHub](https://github.com/SaswataH)
+- [LinkedIn](https://www.linkedin.com/in/saswatahalder05/)
 
 
 ## About Me
@@ -69,5 +62,3 @@ Building practical ML systems with:
 - High-performance simulation systems
 - AI for physical systems and robotics
 - Computational imaging and film-tech systems
-
----
