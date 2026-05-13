@@ -3,14 +3,12 @@
 > Computer Science student exploring Embedded Systems, Machine Learning, Physics, and Film-Tech.
 
 ---
----
 
 ## Connect
 
 - [GitHub](`https://github.com/SaswataH`)
 - [LinkedIn](`https://www.linkedin.com/in/saswatahalder05/`)
 
----
 
 ## About Me
 
@@ -20,7 +18,6 @@ I try to understand how components interact under constraints.
 Currently focused on:
 - Firmware development on the Xtensa 32-bit LX6 / LX7 architecture
 - Machine Learning and Data Analysis
----
 
 ## Current Projects
 
@@ -47,9 +44,6 @@ Building practical ML systems with:
 - Visualization
 - Model deployment concepts
 
-
-## Tech Stack
-
 ### Languages
 - Python
 - C
@@ -66,8 +60,6 @@ Building practical ML systems with:
 - Pandas
 - NumPy
 - Scikit-learn
-
----
 
 ## Learning Goals
 
