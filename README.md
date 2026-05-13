@@ -1,4 +1,4 @@
-# Logan
+# Saswata
 
 > Computer Science student exploring Embedded Systems, Machine Learning, Physics, and Film-Tech.
 
