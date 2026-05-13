@@ -22,21 +22,6 @@ Computer vision + machine learning powered prosthetic control system using:
 - Gesture classification models
 - Servo actuation systems
 
-### Embedded Systems Experiments
-Working with:
-- ESP32
-- Bluetooth Classic
-- Sensors and ADCs
-- Microcontrollers
-- Real-time systems
-
-### Large-Scale Computer Vision Projects
-Building practical ML systems with:
-- Data pipelines
-- Statistical analysis
-- Visualization
-- Model deployment concepts
-
 ### Languages
 - Python
 - C
